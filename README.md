@@ -1,4 +1,4 @@
-# dataVisualization
+# Project of subject Data Visualization Group 17
 
 You can find the application running in this link: https://group17mds.shinyapps.io/appairbnb/
 
