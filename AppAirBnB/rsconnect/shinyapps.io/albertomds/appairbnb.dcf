@@ -1,0 +1,12 @@
+name: appairbnb
+title:
+username:
+account: albertomds
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3511538
+bundleId: 4137111
+url: https://albertomds.shinyapps.io/appairbnb/
+when: 1611512161.37862
+asMultiple: FALSE
+asStatic: FALSE
