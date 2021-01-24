@@ -11,7 +11,7 @@ By using the public available data of the listings of Airbnb in the city of Madr
 # Instructions to run
 You can find the application running in this link: https://group17mds.shinyapps.io/appairbnb/. We recommend Safari for the best experience.
 
-If you want to run the app in your localhost, install the following libraries and run it using RStudio with *shiny::runApp()* form the *AppAirBnB* directory:
+If you want to run the app in your localhost, install the following libraries and run it using RStudio with ```shiny::runApp()``` form the *AppAirBnB* directory:
 
 - shiny
 - leaflet
